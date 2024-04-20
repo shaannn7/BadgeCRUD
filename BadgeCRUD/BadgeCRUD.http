@@ -1,0 +1,6 @@
+@BadgeCRUD_HostAddress = http://localhost:5288
+
+GET {{BadgeCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
